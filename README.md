@@ -10,4 +10,4 @@
   [知乎](https://www.zhihu.com/people/jia-zhen-57)
 
 如果你也想拥有这样的个人简介，可以参考：
-- [如何在GitHub用户首页展示个人简介](https://jzplp.github.io/2023/blog-github.html#在github用户首页展示个人简介)
+- [如何在GitHub展示个人简介](https://jzplp.github.io/2023/blog-github.html#在github用户首页展示个人简介)
