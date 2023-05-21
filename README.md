@@ -2,13 +2,12 @@
 
 ### 漂流瓶jz 👋
 - Web前端开发工程师
-- [个人博客](https://jzplp.github.io/)
+- [个人技术博客](https://jzplp.github.io/)
 - 还可以在这些地方找到我：
-- [Github](https://github.com/jzplp)
-  [CSDN博客](https://jzplp.blog.csdn.net)
-  [稀土掘金](https://juejin.cn/user/3694779980078877)
+- [GitHub](https://github.com/jzplp) | 
+  [CSDN博客](https://jzplp.blog.csdn.net) | 
+  [稀土掘金](https://juejin.cn/user/3694779980078877) | 
   [知乎](https://www.zhihu.com/people/jia-zhen-57)
 
 如果你也像拥有这样的个人简介，可以参考：
 - [如何在GitHub用户首页展示个人简介](https://jzplp.github.io/2023/blog-github.html#在github用户首页展示个人简介)
-
