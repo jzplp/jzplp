@@ -10,5 +10,4 @@
   [Juejin](https://juejin.cn/user/3694779980078877) | 
   [Zhihu](https://www.zhihu.com/people/jia-zhen-57)
 
-If you also want to have such a personal profile, you can refer to:
-- [How to display a personal profile on Github](https://jzplp.github.io/2023/blog-github.html#在github用户首页展示个人简介)
+If you also want to have such a personal profile, you can refer to: [How to display a personal profile on Github](https://jzplp.github.io/2023/blog-github.html#在github用户首页展示个人简介)
