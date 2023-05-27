@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jzplp&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 漂流瓶jz 👋
-- [中文(zh-cn)](/README.md) | EngLish(en-us)
+- [中文(zh-cn)](/README.md) | English(en-us)
 - Web front end development engineer
 - [Personal technology blog](https://jzplp.github.io/)
 - You can still find me in these places:
