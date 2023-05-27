@@ -1,6 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jzplp&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 漂流瓶jz 👋
+- 简体中文(zh-cn) | [EngLish(en-us)](/en-us-README.md)
 - Web前端开发工程师
 - [个人技术博客](https://jzplp.github.io/)
 - 还可以在这些地方找到我：
